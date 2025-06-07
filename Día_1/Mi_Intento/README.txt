@@ -1,0 +1,5 @@
+- Al comienzo tuve dudas de cómo abordar, debo mejorar en simplemente ejecutar sin miedo a equivocarme porque de hecho se me hace una buena técnica el hacer algo sin pensar tanto para luego corregir, que estar pensando mucho y no hacer nada.
+- Luego me hace falta lo de aprender qué métodos usar más que nada en JS pero también en CSS. Ya me estuve oxidando por no ver esto jeje!!
+- Funcionó la estructura HTML
+- Se pudo apreciar el CSS gracias al tag <link>, le puse sans-serif y color a background y al borde.
+- Debo mejorar la funcionalidad, poco a poco.

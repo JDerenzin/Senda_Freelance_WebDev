@@ -1,0 +1,30 @@
+.faq {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+.faq-item {
+  margin-bottom: 1rem;
+}
+
+.question {
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  padding: 0.5rem;
+  background-color: #e0e0e0;
+  border: none;
+  cursor: pointer;
+}
+
+.answer {
+  padding: 0.5rem;
+  background-color: #f9f9f9;
+  border-left: 3px solid #999;
+}
+
+.hidden {
+  display: none;
+}

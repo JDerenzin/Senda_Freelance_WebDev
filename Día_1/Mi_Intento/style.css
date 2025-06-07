@@ -1,0 +1,16 @@
+section {
+    margin-left: 10px;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+.qtn {
+    background-color: #d0d0d0;
+}
+
+.ans {
+    border: 2px solid transparent;
+    border-left-color: #aaa;
+}
